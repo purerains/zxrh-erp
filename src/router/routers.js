@@ -70,7 +70,7 @@ export default [
     ]
   },
   {
-    path: '/system',
+    path: '/权限系统设置',
     name: 'system',
     component: Main,
     meta: {
