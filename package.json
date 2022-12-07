@@ -47,7 +47,7 @@
     "eslint-plugin-cypress": "^2.2.1",
     "less": "^3.9.0",
     "less-loader": "^4.0.5",
-    "lint-staged": "^8.1.5",
+    "lint-staged": "^13.1.0",
     "vue-template-compiler": "^2.6.9"
   },
   "browserslist": [
